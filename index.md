@@ -4,29 +4,31 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Blank
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: About the MLC
+      subtitle: Hero Subtitle
+      background: /images/hero-banner.png
+      button: FIND OUT MORE
+      url: /contact-us/
+      key_highlights:
+        - title: Adults
+          description: Latest Resources for Adults
+          url: https://google.com
+        - title: Parents
+          description: Latest Resources for Parents
+          url: https://gmail.com
+        - title: Seniors
+          description: Latest Resources for Seniors
+          url: /privacy/
+        - title: Youth
+          description: Latest Resources for Youth
+          url: ""
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
-
