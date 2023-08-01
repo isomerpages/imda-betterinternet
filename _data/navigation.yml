@@ -1,7 +1,7 @@
 logo: /images/logo-mlc.png
 links:
   - title: Who we are
-    collection: example-folder
+    collection: who-we-are
   - title: Press room
     collection: example-folder
   - title: Programmes
