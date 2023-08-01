@@ -1,14 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: who we are
+  - title: Who we are
     collection: example-folder
-  - title: press room
-    url: /example-page/
+  - title: Press room
+    collection: example-folder
+  - title: Programmes
+    url: /permalink
+    sublinks: []
+  - title: Resources
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: programmes
-    url: /permalink
-    sublinks: []
-  - title: resources
-    url: /permalink
-    sublinks: []
