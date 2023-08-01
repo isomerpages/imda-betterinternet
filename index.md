@@ -8,7 +8,7 @@ notification: Blank
 sections:
   - hero:
       title: About the MLC
-      subtitle: Hero Subtitle
+      subtitle: Working Together to create a digitally ready society
       background: /images/hero-banner.png
       button: FIND OUT MORE
       url: /contact-us/
