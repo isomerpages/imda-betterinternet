@@ -3,7 +3,7 @@ title: What we believe in
 permalink: /who-we-are/permalink/
 description: MLC |  What we believe in
 ---
-The Internet is a space that is shared and shaped by everyone who uses it, and everyone in Singapore has witnessed the increasing digitalisation of their daily interactions and activities. The Media Literacy Council (MLC) believes that all of us play a role in creating a safe online environment for work and play. To create a better Internet together, the MLC encourages everyone to use the Media Literacy Core Values.
+The Internet is a space that is shared and shaped by everyone who uses it, and everyone in Singapore has witnessed the increasing digitalisation of their daily interactions and activities. The Media Literacy Council (MLC) believes that all of us play a role in creating a safe online environment for work and play. To create a better Internet together, the MLC encourages everyone to use the Media Literacy Core Values. 
 
 
 **Respect**
@@ -28,4 +28,4 @@ Standing up and doing what is right online keeps the trolls at bay and makes cou
 
 **Discernment**
 
-Exercising critical thinking and good judgement creates smart digital citizens with the ability to make informed choices and actions and protect themselves from risks.
+Exercising critical thinking and good judgement creates smart digital citizens with the ability to make informed choices and actions and protect themselves from risks. 
