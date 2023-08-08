@@ -2,4 +2,4 @@ collections:
   programmes:
     output: true
     order:
-      - Example Title.md
+      - Programmes.md
