@@ -3,7 +3,7 @@ title: Who we work with
 permalink: /who-we-work-with/permalink/
 description: MLC | Who we work with
 ---
-**Media Literacy Council’s Partners**
+# Media Literacy Council’s Partners
 
 The MLC works in partnership with the people, private and public (3P) sectors to champion and co-develop public resources relating to digital literacy and wellness.  
   
