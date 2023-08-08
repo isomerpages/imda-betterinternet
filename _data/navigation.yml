@@ -5,8 +5,7 @@ links:
   - title: Press room
     collection: example-folder
   - title: Programmes
-    url: /permalink
-    sublinks: []
+    collection: programmes
   - title: Resources
     url: /permalink
     sublinks: []
