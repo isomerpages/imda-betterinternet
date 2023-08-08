@@ -3,6 +3,8 @@ title: What we believe in
 permalink: /what-we-believe-in/permalink/
 description: MLC |  What we believe in
 ---
+# What We Believe In
+
 The Internet is a space that is shared and shaped by everyone who uses it, and everyone in Singapore has witnessed the increasing digitalisation of their daily interactions and activities. The Media Literacy Council (MLC) believes that all of us play a role in creating a safe online environment for work and play. To create a better Internet together, the MLC encourages everyone to use the Media Literacy Core Values. 
 
 
