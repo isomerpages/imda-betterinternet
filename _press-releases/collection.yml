@@ -2,6 +2,6 @@ collections:
   press-releases:
     output: true
     order:
-      - 2020 Press Releases.md
       - 2023 Press Releases.md
       - 2022 Press Releases.md
+      - 2020 Press Releases.md
