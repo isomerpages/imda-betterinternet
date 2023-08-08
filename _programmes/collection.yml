@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Safer Internet Day.md
       - Programmes.md
       - NUS CTIC.md
