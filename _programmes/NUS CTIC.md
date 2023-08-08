@@ -14,3 +14,5 @@ Lunch and goodie bags will be provided. Book your tickets before 15 Mar. 
 [Register now](https://uvents.nus.edu.sg/event/dws2023)!   
   
 This symposium is brought to you by the National University of Singapore Trusted Internet and Community ([NUS CTIC](https://ctic.nus.edu.sg/)] with partners - [TOUCH Community Services](https://www.touch.org.sg/), [Ministry of Education](https://www.moe.gov.sg/) and [Ministry of Communications and Information](https://www.mci.gov.sg/) in support of [Digital for Life](https://www.digitalforlife.gov.sg/)
+
+![NUS-CTIC-MLC-Digital-Well-being-Symposium](/images/citc-mlc-sym-2nd-edm.png)
