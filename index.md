@@ -25,6 +25,19 @@ sections:
         - title: Youth
           description: Latest Resources for Youth
           url: ""
+  - resources:
+      title: Our Resources
+      subtitle: EXPLORE
+      button: MORE RESOURCES
+  - infopic:
+      title: Body Image
+      subtitle: DIGITAL LITERACY ISSUES
+      description: For all it's benefits, the online world can have a torubling effect
+        on someone's body iamge, making them feel worried or upset about their
+        appearance. Learn how
+      button: FIND OUT MORE
+      url: "-"
+      alt: Image alt text
   - infobar:
       title: Our Resources
       subtitle: Explore
