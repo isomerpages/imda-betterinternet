@@ -26,9 +26,9 @@ sections:
           description: Latest Resources for Youth
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: Our Resources
+      subtitle: Explore
       description: About a sentence worth of description here
-      button: Button text
+      button: MORE RESOURCES
       url: /faq/
 ---
