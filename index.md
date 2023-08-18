@@ -57,9 +57,10 @@ sections:
       url: "-"
       alt: Image alt text
   - infobar:
-      title: Our Resources
-      subtitle: Explore
-      description: About a sentence worth of description here
-      button: MORE RESOURCES
+      title: Media Literacy Council
+      subtitle: About us
+      description: We work in partnership with Industry, Community and Government to
+        promote an astute and responsible digital citizenship
+      button: More about us
       url: /faq/
 ---
