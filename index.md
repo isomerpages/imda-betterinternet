@@ -38,6 +38,15 @@ sections:
       button: FIND OUT MORE
       url: "-"
       alt: Image alt text
+  - infopic:
+      title: Cyber-bullying
+      subtitle: DIGITAL LITERACY ISSUES
+      description: Cyber-bullying is the act of using the internet or digital devices
+        with the intent of hurting a person or group. Read our tips to
+        understand, identify and cope
+      button: FIND OUT MORE
+      url: "-"
+      alt: Image alt text
   - infobar:
       title: Our Resources
       subtitle: Explore
