@@ -47,7 +47,8 @@ sections:
         understand, identify and cope
       button: FIND OUT MORE
       url: "-"
-      alt: Image alt text
+      alt: Cyber Bullying
+      image: /images/Homepage/cyber bullying.jpg
   - infopic:
       title: Digital Advertising
       subtitle: DIGITAL LITERACY ISSUES
