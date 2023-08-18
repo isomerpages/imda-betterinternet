@@ -57,7 +57,8 @@ sections:
         it may impact someone
       button: FIND OUT MORE
       url: "-"
-      alt: Image alt text
+      alt: Digital Advertising
+      image: /images/Homepage/digital advertising.jpg
   - infobar:
       title: Media Literacy Council
       subtitle: About us
