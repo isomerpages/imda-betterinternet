@@ -9,7 +9,7 @@ sections:
   - hero:
       title: About the MLC
       subtitle: Working Together to create a digitally ready society
-      background: /images/hero-banner.png
+      background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
       url: /contact-us/
       key_highlights:
@@ -33,11 +33,12 @@ sections:
       title: Body Image
       subtitle: DIGITAL LITERACY ISSUES
       description: For all it's benefits, the online world can have a torubling effect
-        on someone's body iamge, making them feel worried or upset about their
+        on someone's body image, making them feel worried or upset about their
         appearance. Learn how
       button: FIND OUT MORE
       url: "-"
-      alt: Image alt text
+      alt: Body Image
+      image: /images/Homepage/body image.jpg
   - infopic:
       title: Cyber-bullying
       subtitle: DIGITAL LITERACY ISSUES
