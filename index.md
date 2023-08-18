@@ -47,6 +47,15 @@ sections:
       button: FIND OUT MORE
       url: "-"
       alt: Image alt text
+  - infopic:
+      title: Digital Advertising
+      subtitle: DIGITAL LITERACY ISSUES
+      description: Digital Advertising is a new and creative field of marketing that
+        exists in most onlien spaces today. Learn about digital advertising, how
+        it may impact someone
+      button: FIND OUT MORE
+      url: "-"
+      alt: Image alt text
   - infobar:
       title: Our Resources
       subtitle: Explore
