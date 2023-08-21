@@ -7,7 +7,7 @@ permalink: /
 notification: Blank
 sections:
   - hero:
-      title: About the MLC
+      title: Better Internet Campaign
       subtitle: Working Together to create a digitally ready society
       background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
