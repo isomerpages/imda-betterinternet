@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Body Image
       subtitle: DIGITAL LITERACY ISSUES
-      description: For all it's benefits, the online world can have a torubling effect
+      description: For all it's benefits, the online world can have a troubling effect
         on someone's body image, making them feel worried or upset about their
         appearance. Learn how
       button: FIND OUT MORE
