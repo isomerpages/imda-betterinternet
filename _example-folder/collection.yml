@@ -2,7 +2,7 @@ collections:
   example-folder:
     output: true
     order:
-      - folder-page.md
+      - Press Releases and Speeches.md
       - example-subfolder/2022.md
       - example-subfolder/.keep
       - example-subfolder/2023.md
