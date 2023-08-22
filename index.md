@@ -66,23 +66,4 @@ sections:
         promote an astute and responsible digital citizenship
       button: More about us
       url: /faq/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      button: Button Text
-      url: <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/gq5S77jZeIc" height="315"
-        width="560"></iframe>
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      button: Button Text
-      url: <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/gq5S77jZeIc" height="315"
-        width="560"></iframe>
-      alt: Image alt text
 ---
