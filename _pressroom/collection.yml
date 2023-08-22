@@ -1,5 +1,5 @@
 collections:
-  pr:
+  pressroom:
     output: true
     order:
       - Press Releases and Speeches.md
