@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - folder-page.md
+      - example-subfolder/2022.md
       - example-subfolder/.keep
       - example-subfolder/2023 Press Releases.md
