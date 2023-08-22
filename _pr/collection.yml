@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  pr:
     output: true
     order:
       - Press Releases and Speeches.md
