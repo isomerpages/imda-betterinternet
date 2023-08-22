@@ -1,6 +1,0 @@
----
-title: 2023 Press Releases
-permalink: /example-folder/example-subfolder/2023-press-releases/
-third_nav_title: Example Subfolder
-description: ""
----
