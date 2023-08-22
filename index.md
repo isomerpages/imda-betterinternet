@@ -14,16 +14,16 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Adults
-          description: Latest Resources for Adults
-          url: https://google.com
+          description: ""
+          url: ""
         - title: Parents
-          description: Latest Resources for Parents
-          url: https://gmail.com
+          description: ""
+          url: ""
         - title: Seniors
-          description: Latest Resources for Seniors
-          url: /privacy/
+          description: ""
+          url: ""
         - title: Youth
-          description: Latest Resources for Youth
+          description: ""
           url: ""
   - resources:
       title: Our Resources
