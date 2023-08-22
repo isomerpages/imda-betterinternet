@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: MLC Home
+description: Media Literacy Council
 image: /images/logo-mlc.png
 permalink: /
 notification: ""
