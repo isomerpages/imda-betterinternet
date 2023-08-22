@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Press Releases and Speeches.md
-      - example-subfolder/2022.md
-      - example-subfolder/.keep
-      - example-subfolder/2023.md
+      - PR/2022.md
+      - PR/.keep
+      - PR/2023.md
