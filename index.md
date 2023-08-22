@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/logo-mlc.png
 permalink: /
-notification: Blank
+notification: ""
 sections:
   - hero:
       title: Better Internet Campaign
