@@ -55,3 +55,23 @@ When you encounter online scams, you can report them to the relevant authorities
 Always create strong passwords for your online accounts and do not use the same passwords for different accounts. You can create a complex password by using a mix of letters, numbers and symbols.
 
 Also, be alert to email phishing scams that lure you to reveal your personal information (such as login details, credit card information) through emails. Look out for signs, such as spelling mistakes, that may suggest that it is a phishing email. Get more tips here and on the Cyber Security Awareness Alliance’s [GoSafeOnline](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/protect-your-computer-from-cyber-threats) website.
+
+# General Enquiries
+
+**Q: I am working on a project relating to media literacy. Can I speak to someone from the Council to find out more on relating issues?**
+
+You may wish to refer to the information and resources on our website to find out more about media literacy issues including cyber bullying, excessive media usage and discernment. If you require more information, you could get in touch with us at [info@medialiteracycouncil.sg](mailto:info@medialiteracycouncil.sg). Interview requests will be assessed on a case-by-case basis and will be based on our availability.
+
+**Q: I am working on a project relating to media literacy and hope to explore possible collaboration with the Council. How can I get in touch?**
+
+We welcome collaborations on projects relating to media literacy. Please get in touch with us at [info@medialiteracycouncil.sg](mailto:info@medialiteracycouncil.sg) with information regarding your project.
+
+**Q: I am carrying out a workshop on cyber wellness and media literacy. Can the Council provide a speaker?**
+
+Due to the high demand for speakers, we will assess each request on a case-by-case basis. You may consider approaching the organisations that provide trained professionals that are able to speak on the topic of your choice. These organisations include:
+
+*   [Fei Yue Community Services](https://fycs.org)
+*   [Kingmaker Consultancy](https://www.kingmaker.com.sg)
+*   [MeToYou (by Monfort Care)](http://www.metoyou.org.sg)
+*   [Singapore Children’s Society](https://www.childrensociety.org.sg)
+*   [TOUCH Cyber Wellness](http://touchcyberwellness.org)
