@@ -2,8 +2,8 @@ collections:
   who-we-are:
     output: true
     order:
-      - Frequently Asked Questions.md
       - About Us.md
       - What we do.md
       - What we believe in.md
       - Who we work with.md
+      - Frequently Asked Questions.md
