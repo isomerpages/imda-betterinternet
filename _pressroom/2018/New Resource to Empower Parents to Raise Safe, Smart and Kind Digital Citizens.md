@@ -43,9 +43,40 @@ For more information, please contact:
 Media Literacy Council  
 Tammy Yap  
 Tel: 6577 3544  
-Email: tammy\_yap@imda.gov.sg
+Email: tammy_yap@imda.gov.sg
 
 Mileage Communications  
 Jacqueline Ho / Bryan Koh  
 Tel: 6222 1678  
 Email: jacqueline@mileage.com.sg/bryan@mileage.com.sg
+
+**Annex A**
+
+**Community Projects launched under the Better Internet X Youth Call-for-Proposals**
+
+1\. CHIJ Katong (Primary)  
+Towards a Cyber Smart Community  
+A community-focused initiative to train students to educate “vulnerable” community stakeholders on cyber safety  
+6 Feb 18 - IJ Family Celebrates Safer Internet Day  
+Apr 18 & Jul to Sep 18 - Community exhibitions and roadshows
+
+2\. The Hidden Good  
+We-ternet  
+A social experiment involving a discussion between children and their parents on identifying fake news and internet usage  
+6 Feb 18 - We-ternet video launch
+
+3\. Make the Change  
+Digital Arts for All  
+A programme where youths are trained to be facilitators to conduct Digital Arts workshops for target beneficiaries  
+Dec 17 to Apr 18 - 10 Digital Arts Workshops  
+Mar 18 & Jun 18 - Digital Arts Exhibition
+
+4\. Republic Polytechnic  
+Intergenerational Digital Literacy Programme  
+Youth student leaders to be trained and resources developed to help seniors pick up digital skills and knowledge  
+Jan 18 & May 18 - Workshops for Seniors
+
+5\. Temasek Polytechnic  
+Zhun Bo  
+A web series featuring a game show where mature adults and seniors are quizzed on the authenticity of news. The aim is to promote info-literacy skills in a light-hearted manner.  
+May 18 - Webisode launch
