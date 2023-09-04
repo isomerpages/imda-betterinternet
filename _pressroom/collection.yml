@@ -2,11 +2,6 @@ collections:
   pressroom:
     output: true
     order:
-      - 2013/.keep
-      - 2013/ITE to Partner Media Literacy Council on Media Literacy Education.md
-      - 2013/Singapore’s inaugural participation in Safer Internet Day (2013
-        Factsheet).md
-      - 2013/Safer Internet Day Youth Conference 2013.md
       - 2022/.keep
       - 2021/.keep
       - 2020/.keep
@@ -16,8 +11,8 @@ collections:
         Digital Citizens.md
       - 2017/.keep
       - 2017/Launch of Better Internet Campaign 2017.md
-      - 2016/Media Literacy Council Ushers In 17 New Members.md
       - 2016/.keep
+      - 2016/Media Literacy Council Ushers In 17 New Members.md
       - 2015/.keep
       - 2015/Singapore recognises good on Safer Internet Day 2015.md
       - 2015/Facebook and Media Literacy Council launch new safety resources for
@@ -26,3 +21,8 @@ collections:
       - 2014/Safer Internet Day 2014 – Let’s create a better internet together
         (Factsheet).md
       - 2014/Media Literacy Council welcomes 15 new members.md
+      - 2013/.keep
+      - 2013/ITE to Partner Media Literacy Council on Media Literacy Education.md
+      - 2013/Singapore’s inaugural participation in Safer Internet Day (2013
+        Factsheet).md
+      - 2013/Safer Internet Day Youth Conference 2013.md
