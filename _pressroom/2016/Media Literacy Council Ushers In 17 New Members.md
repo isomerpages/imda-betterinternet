@@ -4,8 +4,7 @@ permalink: /pressroom/2016/media-literacy-council-ushers-in-new-members/
 description: ""
 third_nav_title: "2016"
 ---
-
-Singapore – 27 July 2016
+**Singapore – 27 July 2016** 
 
 The Media Literacy Council (MLC) will welcome 17 new members from the public, private and people sectors as it commences its third two-year term on 1 August 2016.
 
