@@ -42,3 +42,7 @@ For more information on Safer Internet Day and the Media Literacy Council, pleas
  For more information on the iZ HERO programme, please contact:
 
 <table border="1"><tbody><tr><td><p><span>Dr Park Yuhyun<br>Original developer of the iZ HERO programme</span></p></td><td><p><span><a href="mailto:contact@izhero.org">contact@izhero.org </a>.</span></p></td></tr></tbody></table>
+
+_**About Media Literacy Council (MLC)**_&nbsp;
+
+_**The Media Literacy Council works in partnership with industry, community and government to champion and develop public education and awareness programmes relating to media literacy and cyber wellness. In an increasingly interactive and participatory media landscape, the MLC seeks to cultivate and encourage the public to become discerning media consumers with the ability to evaluate media content effectively, and use, create and share content safely and responsibly. It also advises the government on how to respond to emerging issues relating to Internet and media content.**_
