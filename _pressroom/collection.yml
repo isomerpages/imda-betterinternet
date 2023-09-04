@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Press Releases and Speeches.md
-      - PR/2022.md
       - PR/.keep
       - PR/2023.md
