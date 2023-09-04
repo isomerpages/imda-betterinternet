@@ -2,6 +2,5 @@ collections:
   pressroom:
     output: true
     order:
-      - Press Releases and Speeches.md
       - 2020/.keep
       - 2022/.keep
