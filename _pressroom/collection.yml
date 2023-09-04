@@ -2,11 +2,11 @@ collections:
   pressroom:
     output: true
     order:
-      - 2013/Safer Internet Day Youth Conference 2013.md
+      - 2013/.keep
+      - 2013/ITE to Partner Media Literacy Council on Media Literacy Education.md
       - 2013/Singapore’s inaugural participation in Safer Internet Day (2013
         Factsheet).md
-      - 2013/ITE to Partner Media Literacy Council on Media Literacy Education.md
-      - 2013/.keep
+      - 2013/Safer Internet Day Youth Conference 2013.md
       - 2022/.keep
       - 2021/.keep
       - 2020/.keep
