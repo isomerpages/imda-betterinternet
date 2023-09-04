@@ -2,7 +2,6 @@ collections:
   pressroom:
     output: true
     order:
-      - Press Releases/.keep
       - 2022/.keep
       - 2021/.keep
       - 2020/.keep
