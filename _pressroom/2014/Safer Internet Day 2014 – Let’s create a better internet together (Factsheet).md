@@ -4,11 +4,7 @@ permalink: /pressroom/2014/02/11-safer-internet-day-2014-lets-create-a-better-in
 description: ""
 third_nav_title: "2014"
 ---
-# Safer Internet Day 2014 – Let’s create a better internet together (Factsheet)
-~~=============================================================================~~
-
-11 Feb 2014
-
+**11 Feb 2014**  
 **About Safer Internet Day 2014**
 
 The Safer Internet Day (SID) is a public awareness initiative started in 2004 by the Insafe Network, a network of Awareness Centres funded under the Safer Internet Programme of the European Commission. The SID takes place on the second day of the second week of the second month every year and seeks to promote safe and responsible use of online technology and mobile phones, especially amongst children and young people.
