@@ -4,7 +4,11 @@ permalink: /pressroom/2018/new-resource-to-empower-parents-to-raise-safe-smart-a
 description: ""
 third_nav_title: "2018"
 ---
-# _**Better Internet Campaign to Target Youths, Parents, Seniors & General Public**_
+# New Resource to Empower Parents to Raise Safe Smart and Kind Digital Citizens
+============================
+
+06 Feb 2018  
+**Better Internet Campaign to Target Youths, Parents, Seniors & General Public**
 
 1\. This year's Better Internet Campaign (BIC) marks the launch of a 20-page parent resource jointly produced by international think tank Digital Quotient (DQ) Institute and the Media Literacy Council (MLC). The resource will be translated into the official languages of Singapore with Twitter’s support.
 
