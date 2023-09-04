@@ -2,6 +2,7 @@ collections:
   pressroom:
     output: true
     order:
+      - 2017/.keep
       - 2018/.keep
       - 2019/.keep
       - 2022/.keep
