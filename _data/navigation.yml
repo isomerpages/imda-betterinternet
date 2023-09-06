@@ -10,11 +10,4 @@ links:
     url: /permalink
     sublinks: []
   - title: Contact Us
-    url: /contact-us/
-  - title: Press Releases
-    url: /press-releases/
-    sublinks:
-      - title: 2023 Press Releases
-        url: /press-releases/2023-press-releases
-      - title: 2022 Press Releases
-        url: /press-releases/2022-Press-Releases
+    url: /contact-us
