@@ -3,10 +3,6 @@ title: MLC Members
 permalink: /who-we-are/members-of-mlc/
 description: ""
 ---
-
-
-         
-
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid #F0F0F0 .75pt;mso-yfti-tbllook:1184;mso-padding-alt:10.0pt 10.0pt 10.0pt 10.0pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;mso-border-alt:
   solid #F0F0F0 .75pt;padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -41,7 +37,7 @@ description: ""
   mso-border-alt:solid #F0F0F0 .75pt;padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Dr Natalie Pang</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><br>Associate Professor,<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Department of Communications and New Media<br>Principal Investigator,<br>Centre for Trusted Internet and Community<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
+  &quot;Times New Roman&quot;;color:black"><br>Associate Professor,<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></span>Department of Communications and New Media<br>Principal Investigator,<br>Centre for Trusted Internet and Community<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
   none;mso-border-top-alt:solid #F0F0F0 .75pt;mso-border-alt:solid #F0F0F0 .75pt;
   padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Ms Anita Low-Lim</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -50,7 +46,7 @@ description: ""
   mso-border-top-alt:solid #F0F0F0 .75pt;mso-border-left-alt:solid #F0F0F0 .75pt;
   mso-border-alt:solid #F0F0F0 .75pt;padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Dr Elmie Nekmat</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><br>Associate Professor, Communications and New Media<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
+  &quot;Times New Roman&quot;;color:black"><br>Associate Professor, <br> Communications and New Media<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
   none;mso-border-top-alt:solid #F0F0F0 .75pt;mso-border-alt:solid #F0F0F0 .75pt;
   padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Mr Bryan Tan<br></span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -59,7 +55,7 @@ description: ""
   mso-border-top-alt:solid #F0F0F0 .75pt;mso-border-left-alt:solid #F0F0F0 .75pt;
   mso-border-alt:solid #F0F0F0 .75pt;padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Dr May Oo Lwin</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><br>Chair and President’s Chair and <span style="mso-spacerun:yes">&nbsp;</span>Professor of Communication Studies<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Wee Kim Wee School of Communication and Information<br>Nanyang Technological University</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
+  &quot;Times New Roman&quot;;color:black"><br>Chair and President’s Chair and <span style="mso-spacerun:yes">&nbsp;</span>Professor of Communication Studies<br> <span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Wee Kim Wee School of Communication and Information<br>Nanyang Technological University</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
   none;mso-border-top-alt:solid #F0F0F0 .75pt;mso-border-alt:solid #F0F0F0 .75pt;
   padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Ms Ng Zhen Yi</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
