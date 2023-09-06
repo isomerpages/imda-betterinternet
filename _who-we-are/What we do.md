@@ -17,9 +17,12 @@ We work in partnership with Industry, Community and Government to promote an ast
 
 **Our Main roles include**
 
-*   Advising the Government on research, trends and developments pertaining to the Internet and media, and appropriate policy responses; and
+*   Provide expert advice and thought leadership on issues pertaining to digital literacy, wellness and its emerging areas to the Government and community partners.
     
-*   Developing public awareness and education programmes relating to media literacy and cyber wellness.
+*   Co-develop digital literacy and wellness resources with community partners
+
+*   Convene partners in the people, private and/or pubic (3P) sectors to serve as channels for public education outreach efforts under the ambit of the Digital for 
+Life movement
     
 
 **Through our work, we aim to**
