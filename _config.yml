@@ -3,7 +3,7 @@ url: https://www.google.com
 favicon: /images/logo-mlc.png
 colors:
   primary-color: "#b8a671"
-  secondary-color: "#7592c3"
+  secondary-color: "#093189"
   media-colors:
     - title: media-color-one
       color: "#9b9b9b"
