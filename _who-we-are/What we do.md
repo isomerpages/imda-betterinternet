@@ -21,7 +21,7 @@ We work in partnership with Industry, Community and Government to promote an ast
     
 *   Co-develop digital literacy and wellness resources with community partners
 
-*   Convene partners in the people, private and/or pubic (3P) sectors to serve as channels for public education outreach efforts under the ambit of the Digital for 
+*   Convene partners in the people, private and/or public (3P) sectors to serve as channels for public education outreach efforts under the ambit of the Digital for 
 Life movement
     
 
