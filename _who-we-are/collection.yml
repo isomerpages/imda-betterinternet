@@ -2,8 +2,8 @@ collections:
   who-we-are:
     output: true
     order:
-      - MLC Members.md
       - About Us.md
+      - MLC Members.md
       - What we do.md
       - What we believe in.md
       - Who we work with.md
