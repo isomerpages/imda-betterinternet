@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Better Internet Campaign
-      subtitle: Working Together to create a digitally ready society
+      title: About the MLC
+      subtitle: Working in partnership with Industry, Community and Government to
+        promote an astute and responsible digital citizenship
       background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
       url: /contact-us/
