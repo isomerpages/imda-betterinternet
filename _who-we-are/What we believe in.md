@@ -8,22 +8,22 @@ description: MLC |  What we believe in
 The Internet is a space that is shared and shaped by everyone who uses it, and everyone in Singapore has witnessed the increasing digitalisation of their daily interactions and activities. The Media Literacy Council (MLC) believes that all of us play a role in creating a safe online environment for work and play. To create a better Internet together, the MLC encourages everyone to use the Media Literacy Core Values. 
 
 
-**1** **Respect**
+**1.** **Respect**
 
 Treating people with respect despite their differences makes our online interactions more meaningful and constructive.
 
 
-**2** **Empathy**
+**2.** **Empathy**
 
 Putting ourselves in someone else’s shoes lets us better understand their perspectives and the impact of our words.
 
 
-**3** **Responsibility**
+**3.** **Responsibility**
 
 Being accountable for our words and actions online ensures that our powers of communication are not used to harm others or society.
 
 
-**4** **Integrity**
+**4.** **Integrity**
 
 Standing up and doing what is right online keeps the trolls at bay and makes courtesy the new norm.
 
