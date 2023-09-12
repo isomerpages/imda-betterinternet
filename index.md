@@ -12,19 +12,6 @@ sections:
       background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
       url: /contact-us/
-      key_highlights:
-        - title: Adults
-          description: ""
-          url: ""
-        - title: Parents
-          description: ""
-          url: ""
-        - title: Seniors
-          description: ""
-          url: ""
-        - title: Youth
-          description: ""
-          url: ""
   - infopic:
       title: Digital Advertising
       subtitle: DIGITAL LITERACY ISSUES
