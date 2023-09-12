@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Archive Events/NUS CTIC.md
       - Archive Events/.keep
       - Programmes.md
       - Safer Internet Day.md
