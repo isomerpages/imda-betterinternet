@@ -25,10 +25,6 @@ sections:
         - title: Youth
           description: ""
           url: ""
-  - resources:
-      title: Our Resources
-      subtitle: EXPLORE
-      button: MORE RESOURCES
   - infopic:
       title: Digital Advertising
       subtitle: DIGITAL LITERACY ISSUES
