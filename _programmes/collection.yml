@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Upcoming Events/.keep
       - Programmes.md
+      - Upcoming Events/.keep
       - Archive Events/.keep
       - Archive Events/Safer Internet Day.md
       - Archive Events/NUS CTIC.md
