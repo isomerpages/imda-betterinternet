@@ -13,16 +13,10 @@ sections:
       background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
       url: /contact-us/
-  - infopic:
-      title: Digital Advertising
-      subtitle: DIGITAL LITERACY ISSUES
-      description: Digital Advertising is a new and creative field of marketing that
-        exists in most onlien spaces today. Learn about digital advertising, how
-        it may impact someone
-      button: FIND OUT MORE
-      url: "-"
-      alt: Digital Advertising
-      image: /images/Homepage/digital advertising.jpg
+  - infobar:
+      title: A Better Internet Is A Happier Internet!
+      subtitle: Better Internet campaign
+      description: Working Together to create a digitally ready society
   - infobar:
       title: Media Literacy Council
       subtitle: About us
