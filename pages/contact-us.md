@@ -5,19 +5,6 @@ permalink: /contact-us/
 agency_name: MLC
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
-  - address:
       - 109 North Bridge Road
       - Singapore 179097
       - ""
@@ -26,14 +13,14 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: If you would like to contact the Media Literacy Council, <i>please click
-          here including HTML</i>
+      - phone: ""
+      - email: info@medialiteracycouncil.sg
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
+feedback: https://form.gov.sg/633e54fa2dafe10011310d32
 ---
