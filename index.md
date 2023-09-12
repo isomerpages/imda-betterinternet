@@ -14,10 +14,6 @@ sections:
       button: FIND OUT MORE
       url: /contact-us/
   - infobar:
-      title: A Better Internet Is A Happier Internet!
-      subtitle: Better Internet campaign
-      description: Working Together to create a digitally ready society
-  - infobar:
       title: Media Literacy Council
       subtitle: About us
       description: We work in partnership with Industry, Community and Government to
