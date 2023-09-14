@@ -4,6 +4,7 @@ permalink: /pressroom/press-releases/singapore-inaugural-participation-in-safer-
 description: ""
 third_nav_title: Press Releases
 ---
+*05 Feb 2013*  
 **About the Safer Internet Day (SID)**
 
 The Safer Internet Day (SID) is a public awareness initiative started in 2004 by the Insafe Network, a network of Awareness Centres funded under the Safer Internet Programme of the European Commission. The SID takes place on the second day of the second week of the second month every year and seeks to promote safe and responsible use of online technology and mobile phones, especially amongst children and young people. Currently in its 10th run, the SID has gone global with worldwide participation by over 100 countries. Participants and SID Committees are encouraged to come up with new and innovative ideas to celebrate Safer Internet Day in their respective countries.
