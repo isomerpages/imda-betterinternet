@@ -2,6 +2,7 @@ collections:
   pressroom:
     output: true
     order:
+      - Press Releases/Launch of Better Internet Campaign.md
       - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
         Kind Digital Citizens.md
       - Press Releases/.keep
