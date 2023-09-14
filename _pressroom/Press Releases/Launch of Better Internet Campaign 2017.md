@@ -4,7 +4,7 @@ permalink: /pressroom/press-releases/launch-of-better-internet-campaign-2017/
 description: ""
 third_nav_title: Press Releases
 ---
-**07 Feb 2017**  
+*07 Feb 2017*  
 **Targeting Youths & Young Adults Aged 15 to 35 Years Old**
 
 1\. The Media Literacy Council (MLC) celebrates Safer Internet Day (SID) today with the launch of the Better Internet Campaign (‘the Campaign’). The Council has spearheaded the campaign for the fourth time since Singapore’s participation in the global initiative in 2013.
