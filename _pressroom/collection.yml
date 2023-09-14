@@ -2,6 +2,8 @@ collections:
   pressroom:
     output: true
     order:
+      - Press Releases/ITE to Partner Media Literacy Council on Media Literacy
+        Education.md
       - Press Releases/.keep
       - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
         Kind Digital Citizens.md
