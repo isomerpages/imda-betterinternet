@@ -4,7 +4,7 @@ permalink: /pressroom/speeches/communications-literacy-seminar/
 description: ""
 third_nav_title: Speeches
 ---
-**08 May 2012**
+*08 May 2012*
 
 Mr Aubeck Kam,  
 CEO, Media Development Authority,
