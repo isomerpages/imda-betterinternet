@@ -4,7 +4,7 @@ permalink: /pressroom/press-releases/ite-to-partner-media-literacy-council-on-me
 description: ""
 third_nav_title: Press Releases
 ---
-**06 May 2013**
+*06 May 2013*
 
 The Institute of Technical Education (ITE) and the Media Literacy Council (MLC) have sealed an inaugural educational partnership to give students a deeper understanding of Internet, and social and mainstream media-related issues. This is the MLC’s first official partnership with a Post-Secondary Education Institution since the Council formed in August last year.
 
