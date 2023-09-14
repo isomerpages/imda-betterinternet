@@ -2,6 +2,8 @@ collections:
   pressroom:
     output: true
     order:
+      - Press Releases/Singapore’s inaugural participation in Safer Internet Day
+        (2013 Factsheet).md
       - Press Releases/ITE to Partner Media Literacy Council on Media Literacy
         Education.md
       - Press Releases/.keep
