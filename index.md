@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MLC Home
+title: Media Literacy Council
 description: Media Literacy Council
 image: /images/logo-mlc.png
 permalink: /
