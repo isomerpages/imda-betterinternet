@@ -2,6 +2,7 @@ collections:
   pressroom:
     output: true
     order:
+      - Press Releases/New Resource to.md
       - Press Releases/.keep
       - 2022/.keep
       - 2021/.keep
