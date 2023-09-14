@@ -6,6 +6,8 @@ description: MLC | Overview of Media Literacy Council
 # About Us
 
 The Media Literacy Council (MLC) comprises members from the people, private, and public sectors. It provides expert advice and thought leadership on issues pertaining to digital literacy and wellness and its emerging areas. With community partners, it also co-develops digital literacy and wellness resources and supports initiatives under the **[Digital for Life movement](https://www.digitalforlife.gov.sg/)**.   
+
+![MLC to enable digital literacy on laptop and tablet](/images/mlc_about%20us_1.png)
   
 In today’s digital and social media landscape, the Council seeks to address problems such as cyber safety and security, discernment of online falsehoods, cyber bullying and other uncivil online behaviours. Its role is to cultivate digital users' critical-thinking skills and refine their understanding of the issues in the online world so as to empower them to be safe, smart, and kind online.
 
@@ -14,6 +16,10 @@ In today’s digital and social media landscape, the Council seeks to address pr
 
 
 # Who We Are
+
+We come from the people, private and public (3P) sectors and are appointed by the Minister (Ministry of Communications and Information) to serve a two year term on a voluntary basis. The Council is supported by a Secretariat team from the Info-communications Media Development Authority.
+
+![MLC comprises of volunteers from the people, private and public sectors.](/images/mlc_about%20us_2.png)
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid #F0F0F0 .75pt;mso-yfti-tbllook:1184;mso-padding-alt:10.0pt 10.0pt 10.0pt 10.0pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;mso-border-alt:
