@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - What we do.md
+      - What We Do.md
       - What we believe in.md
       - Work With Us.md
       - Frequently Asked Questions.md
