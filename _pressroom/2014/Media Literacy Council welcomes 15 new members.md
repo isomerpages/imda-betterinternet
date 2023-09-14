@@ -4,7 +4,7 @@ permalink: /pressroom/2014/01/08/media-literacy-council-welcomes-15-new-members/
 description: ""
 third_nav_title: "2014"
 ---
-08 Jan 2014
+**08 Jan 2014**
 
 **15 new members from the academic, legal, telecommunications and social sectors have joined the Media Literacy Council (MLC) to help drive public education on media literacy and digital citizenship, and advise the government on the policy responses to these emerging issues.**
 
