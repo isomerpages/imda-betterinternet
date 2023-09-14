@@ -2,8 +2,6 @@ collections:
   pressroom:
     output: true
     order:
-      - Press Releases/New Council to Oversee Cyber Wellness, Media Literacy
-        Initiatives.md
       - Press Releases/.keep
       - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
         Kind Digital Citizens.md
@@ -19,6 +17,8 @@ collections:
         Education.md
       - Press Releases/Singapore’s inaugural participation in Safer Internet Day
         (2013 Factsheet).md
+      - Press Releases/New Council to Oversee Cyber Wellness, Media Literacy
+        Initiatives.md
       - Speeches/Communications Literacy Seminar.md
       - Speeches/Safer Internet Day Youth Conference.md
       - Speeches/.keep
