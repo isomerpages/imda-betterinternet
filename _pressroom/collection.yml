@@ -2,9 +2,6 @@ collections:
   pressroom:
     output: true
     order:
-      - Press Releases/Media Literacy Council welcomes 15 new members.md
-      - Press Releases/Safer Internet Day 2014 – Let’s create a better internet
-        together (Factsheet).md
       - Press Releases/.keep
       - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
         Kind Digital Citizens.md
@@ -13,6 +10,9 @@ collections:
       - Press Releases/Singapore recognises good on Safer Internet Day 2015.md
       - Press Releases/Facebook and Media Literacy Council launch new safety
         resources for teens, parents and teachers.md
+      - Press Releases/Safer Internet Day 2014 – Let’s create a better internet
+        together (Factsheet).md
+      - Press Releases/Media Literacy Council welcomes 15 new members.md
       - Speeches/.keep
       - 2014/.keep
       - 2014/Safer Internet Day 2014 – Let’s create a better internet together
