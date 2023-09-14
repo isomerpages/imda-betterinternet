@@ -4,7 +4,7 @@ permalink: /pressroom/press-releases/singapore-recognises-good-on-safer-internet
 description: ""
 third_nav_title: Press Releases
 ---
-**10 Feb 2015**
+*10 Feb 2015*
 
 1.   Singapore will join over 100 countries around the world to commemorate Safer Internet Day (SID) on 10 February 2015. In line with the global SID theme of “Let’s Create a Better Internet Together”, the Media Literacy Council (MLC)’s campaign this year focuses on “recognising good.”
 
