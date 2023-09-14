@@ -12,7 +12,7 @@ third_nav_title: Press Releases
 
 3.   The campaign also looked for people who used the internet positively and responsibly - be it starting a social cause on Facebook or making encouraging videos, and reaching out to try and make a difference.
 
-4.   These are all ordinary folks but passionate about how they can make the online and offline worlds a better place. Their stories can be found at [www.betterinternet.sg](http://www.betterinternet.sg/) which will showcase 24 individuals and groups. The rest of the 50 will be updated over the next few weeks
+4.   These are all ordinary folks but passionate about how they can make the online and offline worlds a better place. Their stories can be found at betterinternet.sg, which will showcase 24 individuals and groups. The rest of the 50 will be updated over the next few weeks
 
 5.   Through recognising good, the MLC hopes to inspire and bring across the message that everyone can help to create a better internet. Chairman of the MLC, Professor Tan Cheng Han says: “The internet is all about sharing and empowerment. And for everyone to benefit from the internet, it needs to be a safe and enriching space where constructive dialogue can take place, and where people can disagree without being disagreeable; this will encourage rather than stifle debate. The internet is also where people with good ideas and aspirations can come together to build a better world. The internet is what we make of it - let’s harness it to create a better world, offline and online.”
 
