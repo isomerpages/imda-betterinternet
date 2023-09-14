@@ -5,7 +5,7 @@ permalink: /pressroom/press-releases/facebook-and-mlc-launch-new-safety-resource
 description: ""
 third_nav_title: Press Releases
 ---
-**09 Feb 2015**
+*09 Feb 2015*
 
 In support of tomorrow’s Safer Internet Day, a global initiative that invites everyone - young people, parents, teachers, educators, industry and safety organizations - to come together to focus on what we can do to “create a better Internet together”, Facebook and the Media Literacy Council (MLC) today launched a Bullying Prevention Centre in Singapore.
 
