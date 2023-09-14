@@ -4,7 +4,7 @@ permalink: /pressroom/press-releases/new-council-to-oversee-cyber-wellness-media
 description: ""
 third_nav_title: Press Releases
 ---
-**30 Jul 2012**
+*30 Jul 2012*
 
 The Media Literacy Council (MLC), will be formed on 1 August 2012 to spearhead public education on media literacy and cyber wellness, and advise the government on the appropriate policy response to an increasingly complex and borderless world of media, technology, consumer expectations and participation.
 
