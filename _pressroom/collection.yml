@@ -2,6 +2,7 @@ collections:
   pressroom:
     output: true
     order:
+      - Press Releases/Media Literacy Council welcomes 15 new members.md
       - Press Releases/Safer Internet Day 2014 – Let’s create a better internet
         together (Factsheet).md
       - Press Releases/.keep
