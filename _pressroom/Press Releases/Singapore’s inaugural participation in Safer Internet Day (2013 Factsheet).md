@@ -60,7 +60,7 @@ In conjunction with Singapore’s inaugural participation in SID 2013, MediaCorp
 
 **iv) Launch of Media Literacy Website**
 
-To provide the public with easy access to useful information and resources on media and the Internet, the Media Literacy Council has also set up a new website at www.medialiteracycouncil.sg
+To provide the public with easy access to useful information and resources on media and the Internet, the Media Literacy Council has also set up a new website at medialiteracycouncil.sg
 
 **SID Activities by MLC and supporting organisations**
 
