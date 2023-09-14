@@ -2,6 +2,8 @@ collections:
   pressroom:
     output: true
     order:
+      - Press Releases/New Council to Oversee Cyber Wellness, Media Literacy
+        Initiatives.md
       - Press Releases/.keep
       - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
         Kind Digital Citizens.md
