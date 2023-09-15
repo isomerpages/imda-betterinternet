@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - New Events/.keep
       - Programmes.md
       - Upcoming Events/.keep
       - Archive Events/.keep
