@@ -12,8 +12,3 @@ links:
     url: https://www.digitalforlife.gov.sg/
   - title: Contact US
     url: /contact-us
-  - title: Menu Title
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
