@@ -24,12 +24,12 @@ We come from the people, private and public (3P) sectors and are appointed by th
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid #F0F0F0 1pt;mso-yfti-tbllook:1184;mso-padding-alt:10.0pt 10.0pt 10.0pt 10.0pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;mso-border-alt:
   solid #F0F0F0 1pt;padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-outline-level:3"><b><span style="font-size:15pt;
+  line-height:normal;mso-outline-level:3"><b><span style="font-size:16pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#093189">Chairman</span></b></p></td><td width="49%" style="width:49.36%;border:solid #F0F0F0 1.5pt;border-left:
   none;mso-border-left-alt:solid #F0F0F0 1.5pt;mso-border-alt:solid #F0F0F0 1pt;
   padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-outline-level:3"><b><span style="font-size:15pt;
+  line-height:normal;mso-outline-level:3"><b><span style="font-size:16pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#093189">Vice-Chairman</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.5pt;border-top:
   none;mso-border-top-alt:solid #F0F0F0 1pt;mso-border-alt:solid #F0F0F0 1pt;
@@ -43,7 +43,7 @@ We come from the people, private and public (3P) sectors and are appointed by th
   &quot;Times New Roman&quot;;color:black"><br>Principal Research Fellow, Institute of Policy Studies<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="100%" colspan="2" style="width:100.0%;border:solid #F0F0F0 1.0pt;
   border-top:none;mso-border-top-alt:solid #F0F0F0 1pt;mso-border-alt:solid #F0F0F0 1pt;
   padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-outline-level:3"><b><span style="font-size:15pt;
+  line-height:normal;mso-outline-level:3"><b><span style="font-size:16pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#093189">Members</span></b></p></td></tr><tr style="mso-yfti-irow:3"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.5pt;border-top:
   none;mso-border-top-alt:solid #F0F0F0 1pt;mso-border-alt:solid #F0F0F0 1pt;
