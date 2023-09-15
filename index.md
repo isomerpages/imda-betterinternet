@@ -12,12 +12,12 @@ sections:
         promote an astute and responsible digital citizenship
       background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
-      url: /contact-us/
+      url: /who-we-are/overview/
   - infobar:
       title: Media Literacy Council
       subtitle: About us
       description: We work in partnership with Industry, Community and Government to
         promote an astute and responsible digital citizenship
       button: More about us
-      url: /faq/
+      url: /contact-us/
 ---
