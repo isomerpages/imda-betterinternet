@@ -30,4 +30,4 @@ We work in partnership with Industry, Community and Government to promote an ast
     
 *   Encourage users to be more reflective about the ethical choices they make as participants and communicators and the impact they have on others; and
     
-*   Promote the [Media Literacy Core Values](https://cms.isomer.gov.sg/sites/imda-betterinternet/folders/who-we-are/what-we-believe-In.).
+*   Promote the [Media Literacy Core Values](https://staging.d27udj285nlo6d.amplifyapp.com/who-we-are/what-we-believe-in/).
