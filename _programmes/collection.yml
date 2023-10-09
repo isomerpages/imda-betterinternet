@@ -4,6 +4,6 @@ collections:
     order:
       - Programmes.md
       - Upcoming Events/.keep
-      - Archive Events/.keep
-      - Archive Events/Safer Internet Day.md
-      - Archive Events/NUS CTIC.md
+      - Archived Events/.keep
+      - Archived Events/Safer Internet Day.md
+      - Archived Events/NUS CTIC.md
