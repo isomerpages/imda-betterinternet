@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: About the MLC
+      title: About Media Literacy Council
       subtitle: We work in partnership with Industry, Community and Government to
         promote an astute and responsible digital citizenship
       background: /images/Homepage/mlc about us banner.jpg
