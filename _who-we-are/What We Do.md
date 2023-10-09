@@ -17,12 +17,11 @@ We work in partnership with Industry, Community and Government to promote an ast
 
 **Our Main roles include**
 
-*   Provide expert advice and thought leadership on issues pertaining to digital literacy, wellness and its emerging areas to the Government and community partners.
+*   Offering expert advice and thought leadership on issues pertaining to digital literacy, wellness and its emerging areas to the Government and community partners.
     
-*   Co-develop digital literacy and wellness resources with community partners
+*   Collaborating with community partners to co-develop digital literacy and wellness resources.
 
-*   Convene partners in the people, private and/or public (3P) sectors to serve as channels for public education outreach efforts under the ambit of the Digital for 
-Life movement
+*   Bringing together partners from the people, private and/or public (3P) sectors to serve as channels for public education outreach efforts under the ambit of the Digital for Life movement
     
 
 **Through our work, we aim to**
