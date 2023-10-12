@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programmes.md
+      - Upcoming Events/Example Title.md
       - Upcoming Events/.keep
       - Archived Events/.keep
       - Archived Events/Safer Internet Day.md
