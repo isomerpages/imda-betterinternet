@@ -15,4 +15,17 @@ sections:
       url: /who-we-are/overview/
   - infobar:
       subtitle: About us
+  - infopic:
+      title: Who Are We
+      id: infopic
+      button: Find out more
+      url: https://www.betterinternet.sg/Who-we-are
+      alt: Image alt text
+  - infopic:
+      title: Programmes
+      id: infopic
+      description: Stay Tuned for upcoming programmes and events
+      button: Find out more
+      url: https://www.betterinternet.sg/Programmes
+      alt: Image alt text
 ---
