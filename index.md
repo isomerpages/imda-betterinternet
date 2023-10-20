@@ -28,4 +28,5 @@ sections:
       button: Stay tuned for upcoming events
       url: https://staging.d27udj285nlo6d.amplifyapp.com/programmes/
       alt: Image alt text
+      image: /images/sid 2018.jpg
 ---
