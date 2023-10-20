@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: Who Are We
       id: infopic
-      button: Find out more
+      button: "  Find out more"
       url: /who-we-are/overview/
       alt: Image alt text
       image: /images/mlc_about us_1.png
