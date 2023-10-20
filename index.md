@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Programmes
       id: infopic
-      description: Stay Tuned for upcoming programmes and events
+      description: Stay tuned for upcoming programmes and events
       button: Find out more
       url: https://www.betterinternet.sg/Programmes
       alt: Image alt text
