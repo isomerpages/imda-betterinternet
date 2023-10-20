@@ -13,8 +13,6 @@ sections:
       background: /images/Homepage/mlc about us banner.jpg
       button: FIND OUT MORE
       url: /who-we-are/overview/
-  - infobar:
-      subtitle: About us
   - infopic:
       title: Who Are We
       id: infopic
