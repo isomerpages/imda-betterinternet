@@ -19,12 +19,12 @@ sections:
       title: Who Are We
       id: infopic
       button: Find out more
-      url: https://www.betterinternet.sg/Who-we-are
+      url: https://staging.d27udj285nlo6d.amplifyapp.com/who-we-are/overview/
       alt: Image alt text
   - infopic:
       title: Programmes
       id: infopic
       button: Stay tuned for upcoming events
-      url: https://www.betterinternet.sg/Programmes
+      url: https://staging.d27udj285nlo6d.amplifyapp.com/programmes/
       alt: Image alt text
 ---
