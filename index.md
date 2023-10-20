@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: Who Are We
       id: infopic
-      button: Find out more
+      button: " Find out more"
       url: https://staging.d27udj285nlo6d.amplifyapp.com/who-we-are/overview/
       alt: Image alt text
       image: /images/mlc_about us_1.png
