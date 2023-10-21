@@ -3,14 +3,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: MLC
-locations:
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: Singapore
 contacts:
   - content:
       - phone: ""
