@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Example Title.md
       - Overview.md
       - What We Do.md
       - What We Believe In.md
