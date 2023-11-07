@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: Who Are We
       id: infopic
-      button: "  Find out more"
+      button: Find out more
       url: /who-we-are/overview/
       alt: Image alt text
       image: /images/mlc_about us_1.png
@@ -27,4 +27,8 @@ sections:
       url: /programmes
       alt: Image alt text
       image: /images/sid 2018.jpg
+  - resources:
+      title: News and Happenings
+      subtitle: EXPLORE
+      id: resources
 ---
