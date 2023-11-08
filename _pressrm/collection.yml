@@ -1,5 +1,4 @@
 collections:
   pressrm:
     output: true
-    order:
-      - launch of mlc 2023.md
+    order: []
