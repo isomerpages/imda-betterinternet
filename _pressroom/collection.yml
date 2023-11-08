@@ -2,6 +2,7 @@ collections:
   pressroom:
     output: true
     order:
+      - Press/.keep
       - Press Releases/.keep
       - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
         Kind Digital Citizens.md
