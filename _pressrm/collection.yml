@@ -1,0 +1,4 @@
+collections:
+  pressrm:
+    output: true
+    order: []
