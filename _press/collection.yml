@@ -2,4 +2,5 @@ collections:
   press:
     output: true
     order:
+      - Press Releases/Launch of Better Internet 2023.md
       - Press Releases/.keep
