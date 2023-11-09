@@ -1,4 +1,5 @@
 collections:
   press:
     output: true
-    order: []
+    order:
+      - Press Releases/.keep
