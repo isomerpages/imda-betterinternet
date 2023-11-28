@@ -20,17 +20,22 @@ We come from the people, private and public (3P) sectors and are appointed by th
 ![MLC comprises of volunteers from the people, private and public sectors.](/images/mlc_about%20us_2.png)
 
 <table>
-	<tbody><tr><td>###Chairman</td>
-		<td>###Vice-Chairman</td>
+	<tbody><tr><td style="font-weight:bold; font-size:24px;">Chairman</td>
+		<td style="font-weight:bold; font-size:24px;">Vice-Chairman</td>
 	</tr>
-	<tr><td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/lock_wai_han_chairman_.jpg"></td>
-		<td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/carol_soon_vice-chairman_.jpg"></td>
-	</tr>
-		<tr><td>**Mr Lock Wai Han** <br>
+	<tr><td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/lock_wai_han_chairman_.jpg"><br>
+		<span style="font-weight:bold;">Mr Lock Wai Han</span><br>
 CEO   <br>
 OKH Global Ltd</td>
-		<td>**Dr Carol Soon**  <br> 
+		<td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/carol_soon_vice-chairman_.jpg"><br>
+			<span style="font-weight:bold;">Dr Carol Soon</span> <br> 
 Principal Research Fellow, Institute of Policy Studies   <br>
 National University of Singapore</td>
+	</tr></tbody></table>
+<span style="font-weight:bold; font-size:24px;">Members</span>
+	<table>
+	<tbody><tr><td></td>
 	</tr>
-	</tbody></table>
+	<tr><td></td><td>
+	</td></tr>
+	</tbody></table><table></table>
