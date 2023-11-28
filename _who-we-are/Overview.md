@@ -41,8 +41,8 @@ SINDA</td>
 <td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg"><br><span style="font-weight:bold;">Dr Natalie Pang</span><br>
 Associate Professor,Department of Communications and New Media<br>
 Principal Investigator,  <br>
-National University of Singapore</td><td>
-	</td></tr>
+National University of Singapore</td>
+	</tr>
 	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anita_Low_Lim.JPG"><br>
 <span style="font-weight:bold;">Ms Anita Low-Lim</span><br>  
 Chief Transformation Officer <br>
@@ -50,6 +50,15 @@ TOUCH Community Services</td>
 <td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Elmie_Nekmat.jpg"><br><span style="font-weight:bold;">Dr Elmie Nekmat</span><br>
 Associate Professor, <br>
 Communications and New Media <br>
-National University of Singapore</td><td>
-	</td></tr>
+National University of Singapore</td>
+	</tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anita_Low_Lim.JPG"><br>
+<span style="font-weight:bold;">Ms Anita Low-Lim</span><br>  
+Chief Transformation Officer <br>
+TOUCH Community Services</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Elmie_Nekmat.jpg"><br><span style="font-weight:bold;">Dr Elmie Nekmat</span><br>
+Associate Professor, <br>
+Communications and New Media <br>
+National University of Singapore</td>
+	</tr>
 	</tbody></table><table></table>
