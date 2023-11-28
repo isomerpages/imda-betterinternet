@@ -82,4 +82,11 @@ ByteDance</td>
 Vice President, Partnerships and Engagement and Professor of Communication and Technology <br>
 Singapore Management University</td>
 	</tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Li_Gek___Halfbody.jpg"><br><span style="font-weight:bold;">Mrs Quek Li Gek</span><br>  
+Director, Guidance Branch <br>
+Ministry of Education</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Susan_Ng.jpg"><br><span style="font-weight:bold;">Ms Susan Ng</span><br>
+Producer-Presenter <br> 
+CNA938, MediaCorp</td>
+	</tr>
 	</tbody></table>
