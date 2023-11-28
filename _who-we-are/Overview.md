@@ -13,9 +13,6 @@ The Media Literacy Council (MLC) comprises members from the people, private, and
 In today’s digital and social media landscape, the Council seeks to address problems such as cyber safety and security, discernment of online falsehoods, cyber bullying and other uncivil online behaviours. Its role is to cultivate digital users' critical-thinking skills and refine their understanding of the issues in the online world so as to empower them to be safe, smart, and kind online.
 
 
-<div class="bp-youtube">  <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gq5S77jZeIc" height="720" width="1280"></iframe>  </div>
-
-
 # Who We Are
 
 We come from the people, private and public (3P) sectors and are appointed by the Minister (Ministry of Communications and Information) to serve a two year term on a voluntary basis. The Council is supported by a Secretariat team from the Info-communications Media Development Authority.
