@@ -31,7 +31,8 @@ OKH Global Ltd</td>
 			<span style="font-weight:bold;">Dr Carol Soon</span> <br> 
 Principal Research Fellow, Institute of Policy Studies   <br>
 National University of Singapore</td>
-	</tr></tbody></table>
+</tr>
+	</tbody></table>
 <span style="font-weight:bold; font-size:24px;">Members</span>
 	<table>
 	<tbody><tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg"><br>
