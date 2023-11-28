@@ -8,7 +8,7 @@ variant: markdown
 
 2\. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-Proprietary Rights
+**Proprietary Rights**
 
 3\. The materials located on this Web Site including the information and software programs (the "Contents"), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by the MLC.
 
@@ -18,7 +18,7 @@ Proprietary Rights
 
 6\. For any materials attributable to a third party, the MLC would have received permission from the copyright holder. Please seek permission from the copyright owners directly if you wish to use these materials.
 
-Disclaimer of Warranties and Liability
+**Disclaimer of Warranties and Liability**
 
 7\. The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, the MLC does not warrant and hereby disclaims any warranty:
 
@@ -28,7 +28,7 @@ Disclaimer of Warranties and Liability
 
 8\. The MLC shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
-Hyperlinks
+**Hyperlinks**
 
 9\. This Web Site contains hyperlinks to web sites which are not maintained by the MLC. The MLC is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites.
 
@@ -40,6 +40,6 @@ Hyperlinks
 
 13\. In no circumstances shall the MLC be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
 
-Governing Law
+**Governing Law**
 
 14\. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
