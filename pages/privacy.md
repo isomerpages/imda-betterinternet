@@ -1,12 +1,22 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 
-### **Government Agency Privacy Statement**
+The Media Literacy Council (MLC) collects personal data (Data) only from individuals who have signed up for the MLC newsletter. The MLC portal team will have access to subscriber email addresses and can modify and/or delete information as needed to maintain the integrity of the user database..
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+In such instances, adequate policies and procedures have been put in place by MLC
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+*   To specify the purpose(s) for use of the Data;
+*   To safeguard the interests of the individuals;
+*   To protect the confidentiality of the Data that it has collected from unauthorised access;
+*   To retain the Data for only as long as it needs to meet its purpose.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
+
+If you are only browsing this website, we do not capture data that allows us to identify you individually. But we may collect aggregate statistics which includes, but are not limited to, the number of users during a specific period, the number of pages viewed and the amount of time spent on the MLC site. Such information may be compiled regularly into internal reports for our operational needs. The information will not be disclosed or used for commercial purposes.
+
+This site may contain links to other sites whose data privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+
+MLC reserves the right to amend its data privacy policy and the information published about the said policy from time to time. While MLC takes reasonable care to ensure that information published about its said policy is up-to-date, MLC does not guarantee the accuracy or completeness of such information.
