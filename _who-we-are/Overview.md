@@ -34,7 +34,7 @@ National University of Singapore</td>
 </tr>
 	</tbody></table>
 <br>
-	<table>
+<table>
 	<tbody><tr><td style="width:50%;"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg"><br>
 		<span style="font-weight:bold;">Mr Anbarasu Rajendran</span><br>
 CEO  <br>
