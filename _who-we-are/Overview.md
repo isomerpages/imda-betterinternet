@@ -23,24 +23,33 @@ We come from the people, private and public (3P) sectors and are appointed by th
 	<tbody><tr><td style="font-weight:bold; font-size:24px;">Chairman</td>
 		<td style="font-weight:bold; font-size:24px;">Vice-Chairman</td>
 	</tr>
-	<tr><td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/lock_wai_han_chairman_.jpg"><br>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/lock_wai_han_chairman_.jpg"><br>
 		<span style="font-weight:bold;">Mr Lock Wai Han</span><br>
 CEO   <br>
 OKH Global Ltd</td>
-		<td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/carol_soon_vice-chairman_.jpg"><br>
+		<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/carol_soon_vice-chairman_.jpg"><br>
 			<span style="font-weight:bold;">Dr Carol Soon</span> <br> 
 Principal Research Fellow, Institute of Policy Studies   <br>
 National University of Singapore</td>
 	</tr></tbody></table>
 <span style="font-weight:bold; font-size:24px;">Members</span>
 	<table>
-	<tbody><tr><td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg"><br>
+	<tbody><tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg"><br>
 <span style="font-weight:bold;">Mr Anbarasu Rajendran</span><br>  
 CEO  <br>
 SINDA</td>
-<td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg"><br><span style="font-weight:bold;">Dr Natalie Pang</span><br>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg"><br><span style="font-weight:bold;">Dr Natalie Pang</span><br>
 Associate Professor,Department of Communications and New Media<br>
 Principal Investigator,  <br>
+National University of Singapore</td><td>
+	</td></tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anita_Low_Lim.JPG"><br>
+<span style="font-weight:bold;">Ms Anita Low-Lim</span><br>  
+Chief Transformation Officer <br>
+TOUCH Community Services</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Elmie_Nekmat.jpg"><br><span style="font-weight:bold;">Dr Elmie Nekmat</span><br>
+Associate Professor, <br>
+Communications and New Media <br>
 National University of Singapore</td><td>
 	</td></tr>
 	</tbody></table><table></table>
