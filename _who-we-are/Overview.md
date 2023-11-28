@@ -52,8 +52,8 @@ We come from the people, private and public (3P) sectors and are appointed by th
   mso-border-top-alt:solid #F0F0F0 1pt;mso-border-left-alt:solid #F0F0F0 1pt;
   mso-border-alt:solid #F0F0F0 1pt;padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><br><img src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg">Dr Natalie Pang</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><br>Associate Professor,<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></span>Department of Communications and New Media<br>Principal Investigator,<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><br><img src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg"><br>Dr Natalie Pang</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"><br>Associate Professor,<span style="mso-spacerun:yes"></span>Department of Communications and New Media<br>Principal Investigator,<br>National University of Singapore</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="50%" style="width:50.64%;border:solid #F0F0F0 1.0pt;border-top:
   none;mso-border-top-alt:solid #F0F0F0 1pt;mso-border-alt:solid #F0F0F0 .75pt;
   padding:11.25pt 11.25pt 11.25pt 11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Ms Anita Low-Lim</span></b><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
