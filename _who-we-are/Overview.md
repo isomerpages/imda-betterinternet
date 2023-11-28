@@ -89,4 +89,18 @@ Ministry of Education</td>
 Producer-Presenter <br> 
 CNA938, MediaCorp</td>
 	</tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/TAN_LENG_TUAN_108326__9_.jpg"><br><span style="font-weight:bold;">Ms Tan Leng Tuan</span><br>  
+Editor, Chinese Media Group <br>
+Singapore Press Holdings</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Monrawee_Lynn.jpg"><br><span style="font-weight:bold;">Ms Monrawee Ampolpittayanant</span><br>
+Head of Public Policy, Government and Philanthropy, Southeast Asia <br>
+X</td>
+	</tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Azlan.png"><br><span style="font-weight:bold;">Mr Noor Azlan Bin Salim</span><br>  
+Deputy Director&nbsp;(Partnerships) <br>
+Yayasan MENDAKI</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Clara_Koh.jpg"><br><span style="font-weight:bold;">Ms Clara Koh</span><br>
+Head of Public Policy, Singapore<br>
+Meta</td>
+	</tr>
 	</tbody></table>
