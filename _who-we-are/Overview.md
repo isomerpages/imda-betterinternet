@@ -60,4 +60,11 @@ Chair and President’s Chair and&nbsp;&nbsp;Professor of Communication Studies&
 Wee Kim Wee School of Communication and Information <br>
 Nanyang Technological University</td>
 	</tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Zhen_Yi.jpg"><br><span style="font-weight:bold;">Ms Ng Zhen Yi</span><br>  
+Senior Manager, Government &amp; Public Affairs APAC <br>
+The LEGO Group</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Jiow_Hee_Jhee__SIT_Corporate_Photo_.jpg"><br><span style="font-weight:bold;">Dr Jiow Hee Jhee</span><br>
+Associate Professor and Programme Leader&nbsp;<br>
+Singapore Institute of Technology</td>
+	</tr>
 	</tbody></table><table></table>
