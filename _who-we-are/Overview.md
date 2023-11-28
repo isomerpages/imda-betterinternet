@@ -67,4 +67,19 @@ The LEGO Group</td>
 Associate Professor and Programme Leader&nbsp;<br>
 Singapore Institute of Technology</td>
 	</tr>
-	</tbody></table><table></table>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Pauline_Phoon.jpg"><br><span style="font-weight:bold;">Ms Pauline Phoon</span><br>  
+Founder <br>
+COMEBACK Pte Ltd</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Profile_Rachel_Teo.jpg"><br><span style="font-weight:bold;">Ms Rachel Teo</span><br>
+Lead, Government Affairs and Public Policy <br>
+Google</td>
+	</tr>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Teresa_Tan.png"><br><span style="font-weight:bold;">Ms Teresa Tan</span><br>  
+Director, Global Public Policy, <br>
+Southeast Asia <br>
+ByteDance</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Lim_Sun_Sun.jpg"><br><span style="font-weight:bold;">Professor Lim Sun Sun</span><br>
+Vice President, Partnerships and Engagement and Professor of Communication and Technology <br>
+Singapore Management University</td>
+	</tr>
+	</tbody></table>
