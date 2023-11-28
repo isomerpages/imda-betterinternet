@@ -52,13 +52,12 @@ Associate Professor, <br>
 Communications and New Media <br>
 National University of Singapore</td>
 	</tr>
-	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anita_Low_Lim.JPG"><br>
-<span style="font-weight:bold;">Ms Anita Low-Lim</span><br>  
-Chief Transformation Officer <br>
-TOUCH Community Services</td>
-<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Elmie_Nekmat.jpg"><br><span style="font-weight:bold;">Dr Elmie Nekmat</span><br>
-Associate Professor, <br>
-Communications and New Media <br>
-National University of Singapore</td>
+	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Xander_Ong.jpg"><br><span style="font-weight:bold;">Mr Xander Ong</span><br>  
+CEO <br>
+Centre for Fathering</td>
+<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/May_Oo_Lwin.jpg"><br><span style="font-weight:bold;">Dr May Oo Lwin</span><br>
+Chair and President’s Chair and&nbsp;&nbsp;Professor of Communication Studies&nbsp;<br>
+Wee Kim Wee School of Communication and Information <br>
+Nanyang Technological University</td>
 	</tr>
 	</tbody></table><table></table>
