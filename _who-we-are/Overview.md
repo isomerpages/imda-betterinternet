@@ -34,8 +34,13 @@ National University of Singapore</td>
 	</tr></tbody></table>
 <span style="font-weight:bold; font-size:24px;">Members</span>
 	<table>
-	<tbody><tr><td></td>
-	</tr>
-	<tr><td></td><td>
+	<tbody><tr><td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg"><br>
+<span style="font-weight:bold;">Mr Anbarasu Rajendran</span><br>  
+CEO  <br>
+SINDA</td>
+<td><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg"><br><span style="font-weight:bold;">Dr Natalie Pang</span><br>
+Associate Professor,Department of Communications and New Media<br>
+Principal Investigator,  <br>
+National University of Singapore</td><td>
 	</td></tr>
 	</tbody></table><table></table>
