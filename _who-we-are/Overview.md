@@ -40,8 +40,9 @@ National University of Singapore</td>
 CEO  <br>
 SINDA</td>
 <td style="width:50%;"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Natalie_Pang.jpg"><br><span style="font-weight:bold;">Dr Natalie Pang</span><br>
-Associate Professor,Department of Communications and New Media<br>
+Associate Professor, Department of Communications and New Media<br>
 Principal Investigator,  <br>
+Centre for Trusted Internet and Community<br>
 National University of Singapore</td>
 	</tr>
 	<tr><td style="width:50%;"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anita_Low_Lim.JPG"><br>
