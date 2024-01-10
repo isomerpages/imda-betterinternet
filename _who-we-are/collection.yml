@@ -1,0 +1,8 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Overview.md
+      - What We Do.md
+      - What We Believe In.md
+      - Work With Us.md

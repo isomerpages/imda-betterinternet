@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Media Literacy Council
+description: Media Literacy Council
+image: /images/logo-mlc.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: About Media Literacy Council
+      subtitle: We work in partnership with Industry, Community and Government to
+        promote an astute and responsible digital citizenship
+      background: /images/Homepage/mlc about us banner.jpg
+      button: FIND OUT MORE
+      url: /who-we-are/overview/
+  - infopic:
+      title: Who Are We
+      id: infopic
+      button: Find out more
+      url: /who-we-are/overview/
+      alt: Image alt text
+      image: /images/mlc_about us_1.png
+  - infopic:
+      title: Programmes
+      id: infopic
+      button: Stay tuned for upcoming events
+      url: /programmes
+      alt: Image alt text
+      image: /images/sid 2018.jpg
 ---
-

@@ -1,0 +1,24 @@
+collections:
+  pressroom:
+    output: true
+    order:
+      - Press Releases/.keep
+      - Press Releases/Launch of Better Internet Campaign 2017.md
+      - Press Releases/Media Literacy Council Ushers in 17 New Members.md
+      - Press Releases/New Resource to Empower Parents to Raise Safe, Smart and
+        Kind Digital Citizens.md
+      - Press Releases/Singapore recognises good on Safer Internet Day 2015.md
+      - Press Releases/Facebook and Media Literacy Council launch new safety
+        resources for teens, parents and teachers.md
+      - Press Releases/Safer Internet Day 2014 – Let’s create a better internet
+        together (Factsheet).md
+      - Press Releases/Media Literacy Council welcomes 15 new members.md
+      - Press Releases/ITE to Partner Media Literacy Council on Media Literacy
+        Education.md
+      - Press Releases/Singapore’s inaugural participation in Safer Internet Day
+        (2013 Factsheet).md
+      - Press Releases/New Council to Oversee Cyber Wellness, Media Literacy
+        Initiatives.md
+      - Speeches/.keep
+      - Speeches/Safer Internet Day Youth Conference.md
+      - Speeches/Communications Literacy Seminar.md
