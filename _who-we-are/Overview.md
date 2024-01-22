@@ -35,21 +35,6 @@ National University of Singapore</td>
 	</tbody></table>
 <span style="font-weight:bold; font-size:24px;">Members</span>
 <table>
-	<tbody><tr><td style="font-weight:bold; font-size:24px;">Chairman</td>
-		<td style="font-weight:bold; font-size:24px;">Vice-Chairman</td>
-	</tr>
-	<tr><td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/lock_wai_han_chairman_.jpg"><br>
-		<span style="font-weight:bold;">Mr Lock Wai Han</span><br>
-CEO   <br>
-OKH Global Ltd</td>
-		<td width="50%"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/carol_soon_vice-chairman_.jpg"><br>
-			<span style="font-weight:bold;">Dr Carol Soon</span> <br> 
-Principal Research Fellow, Institute of Policy Studies   <br>
-National University of Singapore</td>
-</tr>
-	</tbody></table>
-<span style="font-weight:bold; font-size:24px;">Members</span>
-<table>
 	<tbody><tr><td style="width:33%;"><img height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg"><br>
 		<span style="font-weight:bold;">Mr Anbarasu Rajendran</span><br>
 CEO  <br>
