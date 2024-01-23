@@ -2,6 +2,7 @@
 title: What We Do
 permalink: /who-we-are/what-we-do/
 description: MLC | What we do
+variant: markdown
 ---
 # What We Do
 
@@ -30,4 +31,4 @@ We work in partnership with Industry, Community and Government to promote an ast
     
 *   Encourage users to be more reflective about the ethical choices they make as participants and communicators and the impact they have on others; and
     
-*   Promote the [Media Literacy Core Values](https://staging.d27udj285nlo6d.amplifyapp.com/who-we-are/what-we-believe-in/).
+*   Promote the [Media Literacy Core Values](https://www.mlc.sg/who-we-are/what-we-believe-in/)
