@@ -1,0 +1,10 @@
+logo: /images/logo-mlc.png
+links:
+  - title: Who we are
+    collection: who-we-are
+  - title: Programmes
+    collection: programmes
+  - title: Resources
+    url: https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources?profile=profile0&topic=all&type=all&page=1
+  - title: Contact Us
+    url: /contact-us
