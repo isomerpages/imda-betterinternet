@@ -1,9 +1,0 @@
-collections:
-  programmes:
-    output: true
-    order:
-      - Programmes.md
-      - Upcoming Events/.keep
-      - Past Events/.keep
-      - Past Events/Safer Internet Day.md
-      - Past Events/NUS CTIC The MLC Digital Wellbeing Symposium 2023.md
