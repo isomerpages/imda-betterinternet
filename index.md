@@ -20,11 +20,4 @@ sections:
       url: /who-we-are/overview/
       alt: Image alt text
       image: /images/mlc_about us_1.png
-  - infopic:
-      title: Programmes
-      id: infopic
-      button: Stay tuned for upcoming events
-      url: /programmes
-      alt: Image alt text
-      image: /images/sid 2018.jpg
 ---
