@@ -129,7 +129,7 @@ team from the Info-communications Media Development Authority.</p>
 <p>
 <br><strong>Dr Elmie Nekmat</strong> 
 <br>Associate Professor, Department of
-<br>Communicationsand New Media
+<br>Communications and New Media
 <br>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ Hospital</p>
 </div>
 <p>
 <br><strong>Dr Natalie Pang</strong> 
-<br>Head, Department of Communicationsand New Media,
+<br>Head, Department of Communications and New Media,
 <br>Principal Investigator,&nbsp;
 <br>Centre for Trusted Internet and Community
 <br>National University of Singapore</p>
@@ -250,8 +250,7 @@ Hospital</p>
 </div>
 <p><strong>Mr Ting Kheng Siong</strong>
 </p>
-<p>Associate Chief Multi-Platform Sub-Editor,</p>
-<p>Lianhe Zaobao, SPH Media Limited</p>
+<p>Associate Chief Multi-Platform Sub-Editor, Lianhe Zaobao, SPH Media Limited</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
