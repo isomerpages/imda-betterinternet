@@ -250,10 +250,8 @@ Hospital</p>
 </div>
 <p><strong>Mr Ting Kheng Siong</strong>
 </p>
-<p><strong>Associate Chief Multi-Platform Sub-Editor,</strong>
-</p>
-<p><strong>Lianhe Zaobao, SPH Media Limited</strong>
-</p>
+<p>Associate Chief Multi-Platform Sub-Editor,</p>
+<p>Lianhe Zaobao, SPH Media Limited</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -262,6 +260,31 @@ Hospital</p>
 <p><strong>Mr Xander Ong</strong> 
 <br>CEO
 <br>Centre for Fathering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/Maciej.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
