@@ -96,12 +96,11 @@ team from the Info-communications Media Development Authority.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100%" width="100%" src="/images/MLC%20Member%20Photos/Anbu_SINDA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/Dhana.png">
 </div>
-<p>
-<br><strong>Mr Anbarasu Rajendran</strong> 
-<br>CEO
-<br>SINDA</p>
+<p></p>
+<p><strong>Mr Dhanasegaran Narayanasamy</strong>
+<br>Head, Corporate &amp; Marketing Communications and Client Relations, SINDA</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -166,12 +165,12 @@ and Technology
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="100%" width="100%" src="/images/MLC%20Member%20Photos/Monrawee_Lynn.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/Screenshot_2024_11_15_at_10_47_05_AM.png">
 </div>
 <p>
-<br><strong>Ms Monrawee Ampolpittayanant</strong> 
-<br>Head of Public Policy, Government and Philanthropy, Southeast Asia
-<br>X</p>
+<br><strong>Adjunct Associate Professor Chong Shang Chee</strong>
+<br>Senior Consultant Paediatrician, Child Development Unit, National University
+Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -240,11 +239,10 @@ and Technology
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100%" width="100%" src="/images/MLC%20Member%20Photos/TAN_LENG_TUAN_108326__9_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/ODS_018_1.jpg">
 </div>
-<p><strong>Ms Tan Leng Tuan</strong> 
-<br>Editor, Chinese Media Group
-<br>Singapore Press Holdings</p>
+<p><strong>Mr Josh Lee Kok Thong</strong>
+<br>Managing Director (APAC), Future of Privacy Forum</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
