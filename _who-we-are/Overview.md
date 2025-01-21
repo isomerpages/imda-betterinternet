@@ -246,12 +246,14 @@ Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="100%" width="100%" src="/images/MLC%20Member%20Photos/Teresa_Tan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/TKSside.jpg">
 </div>
-<p><strong>Ms Teresa Tan</strong> 
-<br>Director, Global Public Policy,
-<br>Southeast Asia
-<br>ByteDance</p>
+<p><strong>Mr Ting Kheng Siong</strong>
+</p>
+<p><strong>Associate Chief Multi-Platform Sub-Editor,</strong>
+</p>
+<p><strong>Lianhe Zaobao, SPH Media Limited</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
