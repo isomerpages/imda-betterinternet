@@ -21,8 +21,8 @@ of the issues in the online world so as to empower them to be safe, smart,
 and kind online.</p>
 <h1>Who We Are</h1>
 <p>We come from the people, private and public (3P) sectors and are appointed
-by the Minister (Ministry of Communications and Information) to serve a
-two year term on a voluntary basis. The Council is supported by a Secretariat
+by the Minister (Ministry of Digital Development and Information) to serve
+a two year term on a voluntary basis. The Council is supported by a Secretariat
 team from the Info-communications Media Development Authority.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MLC comprises of volunteers from the people, private and public sectors." src="/images/mlc_about%20us_2.png">
