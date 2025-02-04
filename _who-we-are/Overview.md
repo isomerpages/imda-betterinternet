@@ -270,7 +270,7 @@ Hospital</p>
 <p></p>
 <p><strong>Ms Melissa Yoong</strong>
 </p>
-<p>Director, Government Affairs, Singapore</p>
+<p>Director, Government Affairs, Singapore, Microsoft</p>
 <p></p>
 <p></p>
 <p></p>
@@ -281,8 +281,12 @@ Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Candera_Chan.png">
+</div>
+<p><strong>Ms Candera Chan</strong>
+</p>
+<p>Public Policy Lead, ByteDance</p>
 <p></p>
 <p></p>
 <p></p>
