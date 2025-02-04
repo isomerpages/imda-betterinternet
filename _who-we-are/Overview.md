@@ -267,7 +267,6 @@ Hospital</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/Melissa_Yoong.jpg">
 </div>
-<p></p>
 <p><strong>Ms Melissa Yoong</strong>
 </p>
 <p>Director, Government Affairs, Singapore, Microsoft</p>
