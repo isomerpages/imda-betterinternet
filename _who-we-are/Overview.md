@@ -74,7 +74,8 @@ team from the Info-communications Media Development Authority.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Vice-Chairman</strong> 
 <br><strong>Dr Carol Soon</strong> 
-<br>Associate Professor, Department of Communications and New Media
+<br>Deputy Head and Associate Professor (Practice), Department of Communications
+and New Media
 <br>National University of Singapore</p>
 </td>
 </tr>
