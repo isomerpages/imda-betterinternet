@@ -49,8 +49,8 @@ team from the Info-communications Media Development Authority.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Chairman</strong> 
 <br><strong>Mr Lock Wai Han</strong> 
-<br>CEO
-<br>OKH Global Ltd</p>
+<br>Executive Director
+<br>Aesen Pte Ltd</p>
 </td>
 </tr>
 </tbody>
