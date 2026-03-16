@@ -222,10 +222,10 @@ Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="100%" width="100%" src="/images/MLC%20Member%20Photos/Profile_Rachel_Teo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Clement.png">
 </div>
-<p><strong>Ms Rachel Teo</strong> 
-<br>Lead, Government Affairs and Public Policy
+<p><strong>Mr Clement Cher</strong> 
+<br>Singapore Lead, Government Affairs and Public Policy
 <br>Google</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,7 +264,6 @@ Hospital</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLC Member Photos/Melissa_Yoong.jpg">
 </div>
@@ -280,13 +279,12 @@ Hospital</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Candera_Chan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/David.jpg">
 </div>
-<p><strong>Ms Candera Chan</strong>
+<p><strong>Mr David Cai</strong>
 </p>
-<p>Public Policy Lead, ByteDance</p>
+<p>Public Policy Leader, Singapore, TikTok</p>
 <p></p>
 <p></p>
 <p></p>
